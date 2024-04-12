@@ -26,6 +26,11 @@ To get started with the Figma Clone web application, simply navigate to [https:/
 
 3. **Explore Advanced Features**: Take advantage of advanced features such as prototyping, design systems, and plugin integrations to streamline your design process further.
 
+###Image:
+
+
+![Screenshot 2024-04-12 182008](https://github.com/pdd2498/figma-clone/assets/136301852/e7afd7c1-4004-4a82-a89b-c9471a5e9b39)
+
 
 ### About Us:
 
